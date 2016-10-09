@@ -462,6 +462,10 @@ a:hover, a:focus {
   color: #C84EFF;
 }
 
+hr {
+  border: #555 1px solid;
+}
+
 .post {
 	font-size: 18px;
 	font-size: 1.125rem;
